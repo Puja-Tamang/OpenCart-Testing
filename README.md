@@ -14,7 +14,7 @@ OpenCart-Testing/
 └── 6_Bug Report/       → Logged defects and issues  
 
 ## Tools Used
-- Google Sheets / MS Excel  
+- MS Excel  
 - OpenCart Demo Site  
 - GitHub  
 
